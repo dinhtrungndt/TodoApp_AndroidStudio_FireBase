@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thêm Ghi Chú"
+        android:background="#DFDFDF"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textColor="#ED246A"
+        />
+
+    <EditText
+        android:id="@+id/edtLists"
+        android:layout_width="300dp"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:layout_marginTop="7dp"
+        android:background="@drawable/edt_text_bg"
+        android:layout_height="wrap_content"
+        android:hint="Nhập công việc"/>
+
+</LinearLayout>
