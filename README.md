@@ -1,4 +1,4 @@
-# TodoApp
+# TodoApp 📝
 # This is software that notes daily activities
 
 # General introduction to the app: 
