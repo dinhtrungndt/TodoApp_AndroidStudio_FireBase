@@ -1,7 +1,6 @@
-# TodoApp 📝
-# This is software that notes daily activities
+# This is software that notes daily activities 📝👨🏻‍🏫
 
-# General introduction to the app: 
+# General introduction to the app: 📱 
 ![mp4](https://github.com/dinhtrungndt/TodoApp/assets/127390593/c6df5eab-e226-4fdb-921a-eedbd577a51d)
 
 # Login:
